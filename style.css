@@ -1,0 +1,93 @@
+body {
+
+    font-family: "Jacquard 24 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.mainDiv {
+    width: 1100px;
+    height: 800px;
+   /* background-image: linear-gradient(129deg, #e5e5c2b0, #b7b76f8a); */
+    margin: auto;
+    position: relative;
+    top: 73px;
+    border: 10px;
+    border-radius: 48px;
+    border-style: solid;
+    
+}
+
+.font {
+    position: relative;
+    top: 20px;
+    left: 42px;
+    height: 54px
+}
+
+.icon {
+    height: 38px;
+    left: 802px;
+    position: relative;
+    top: 13px;
+}
+
+.image {
+    position: relative;
+    height: 740px;
+    left: 463px;
+    width: 637px;
+    border-radius: 0 0 47px
+}
+
+.div2 {
+    background-color: rgba(255, 255, 255, 0.643);
+    height: 368px;
+    width: 430px;
+    position: relative;
+    bottom: 623px;
+    left: 31px;
+    border-radius: 8%;
+    background-color: rgb(207 193 156 / 54%);
+}
+
+.E-Mail {
+    padding-left: 23px;
+    padding-top: 13px
+}
+.E-Mail1 {
+    width: 328px;
+    height: 43px;
+    background-color: #ffffc9;
+    border-radius: 29px;
+    border: none; 
+    margin-left: 22px;
+}
+.Password {
+    padding-left: 23px;
+    
+}
+.Password1 {
+    width: 328px;
+    height: 43px;
+    background-color: #ffffc9;
+    border-radius: 29px;
+    border: none; 
+    margin-left: 22px;
+}
+.Login{
+    height: 53px;
+    width: 364px;
+    font-size: 39px;
+    border-radius: 30px;
+    background-color: #ffe5005e;
+    margin-top: 35px;
+    margin-left: 15px;
+    transition: 1s;
+    
+    
+}
+.Login:hover{
+   transform: scale(1.06); 
+} 
